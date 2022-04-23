@@ -41,4 +41,4 @@ async def on_message(message):
         for each_message in messages:
             await each_message.delete()   
 
-client.run("OTU5MzUxODcwNDMyODgyNzM4.YkaoDQ.F4FfuAQ6aGuYjhm00MIIsQhbVCk")
+client.run("OTU5MzUxODcwNDMyODgyNzM4.YkaoDQ.1BrGkkpNAM7IHPJBCEi15Ax8dos")

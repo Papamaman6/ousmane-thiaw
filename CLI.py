@@ -8,4 +8,4 @@ class DocBot(commands.Bot):
         print("Le bot est prêt.")
 
 bot = DocBot()
-bot.run("OTU5MzUxODcwNDMyODgyNzM4.YkaoDQ.F4FfuAQ6aGuYjhm00MIIsQhbVCk")
+bot.run("OTU5MzUxODcwNDMyODgyNzM4.YkaoDQ.1BrGkkpNAM7IHPJBCEi15Ax8dos")
